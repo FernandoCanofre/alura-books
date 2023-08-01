@@ -48,6 +48,7 @@ span.cabecalho__menu-hamburguer.container__imagem {
 
 .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link {
@@ -57,4 +58,8 @@ span.cabecalho__menu-hamburguer.container__imagem {
     -webkit-text-fill-color: transparent;
     text-decoration: none;
     text-transform: uppercase;
+}
+
+.container__botao {
+    display: none;
 }
